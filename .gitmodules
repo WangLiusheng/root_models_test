@@ -1,0 +1,3 @@
+[submodule "child_models_1"]
+	path = child_models_1
+	url = ./child_models_1/
